@@ -1,0 +1,10 @@
+Time Complexity of Quick Sort is O(n log n).
+
+Advantages of Quick Sort
+	It is one of the fastest sorting algorithm.
+	It is simple and easy to understand than some of the other algorithm.
+	It does not require additional space to perform the sorting.
+
+Disadvantages of Quick Sort
+	Mostly used for array, because its not very suitable for other datastructures such as linkedlist.
+	Pivot selection is very important, poorly selected pivot can affect the performance.
